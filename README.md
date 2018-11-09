@@ -1,7 +1,7 @@
 # Plugin-Ongkos-Kirim
 Cara mengaktifkan kolom "Alamat" pada Plugin-Ongkos-Kirim
 
-Pilih <b>Plugin > Penyunting > Pilih 'Plugin Ongkos Kirim'</b>
+Pilih <b>Plugin > Penyunting > Pilih 'Plugin Ongkos Kirim'</b><br>
 Edit <b>'Classes' > 'class-pok-hooks-addresses.php'</b>
 
 Pada baris 162, tambahkan Scripts berikut:
