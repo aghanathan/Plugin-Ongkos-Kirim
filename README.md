@@ -9,4 +9,4 @@ Pada baris 162, tambahkan Scripts berikut:
 $fields[ $type . '_address_1' ]['class']       = array();
 $fields[ $type . '_address_2' ]['class']       = array();
 ```
-Sekian, Terima Kasih :
+Sekian, Terima Kasih :smiley:
